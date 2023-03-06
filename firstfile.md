@@ -6,3 +6,9 @@ this is first file
 ##### zaid
 ###### ziad
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+'''
+const user = ()=>{
+if (x>5)
+}
+'''
